@@ -1,6 +1,9 @@
 # 🛒 Online Alışveriş Platformu - ASP.NET Core Web API Projesi
 
 
+Bu proje, Çok Katmanlı Mimari kullanarak geliştirilmiş bir ASP.NET Core Web API uygulamasıdır. Bir online alışveriş platformu oluşturmayı amaçlar ve Entity Framework Core ile veritabanı işlemlerini yönetir. Güvenli erişim için JWT Kimlik Doğrulama kullanır ve özel Middleware yapıları ile bakım ve loglama özellikleri sağlar.
+
+
 ## 📂 Proje Yapısı
 Bu proje, sorumlulukları ayırarak sürdürülebilirlik ve ölçeklenebilirliği artırmak amacıyla üç ana katmana ayrılmıştır.
 
